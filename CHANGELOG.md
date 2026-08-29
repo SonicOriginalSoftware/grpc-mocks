@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.2.0 - 2026-08-29
+#### Features
+- gain a mock grpc client conn - (ed93937) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-03-29
 #### Features
 - initial re-release - (3acb12e) - Nathan Blair
